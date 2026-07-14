@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Models (only if you don't want to upload them)
+*.h5
+*.pt
+*.pth
+
+# Datasets
+dataset/
+datasets/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
